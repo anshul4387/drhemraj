@@ -99,6 +99,7 @@ nav .menu-btn i {
         display: block;
         text-align: center;
         font-size: 20px;
+        z-index:1;
 
     }
 
