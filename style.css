@@ -185,7 +185,7 @@ h3 {
 
 @media (max-width:940px) {
     .intro {
-        margin: 0;
+        margin: 170px 0px;
         width: auto;
     }
 
@@ -195,13 +195,13 @@ h3 {
     }
 
     .intro h1 {
-        font-size: 40px;
+        font-size: 42px;
         margin: 0px 17px;
     }
 
     .intro h3 {
-        font-size: 20px;
-        margin: 0px 20px;
+        font-size: 25px;
+        margin: 10px 20px;
 
     }
 
@@ -233,7 +233,7 @@ h3 {
 
 @media (max-width:940px) {
     .appointment {
-        font-size: 10px;
+        font-size: 12px;
         margin: 0px 20px;
 
 
